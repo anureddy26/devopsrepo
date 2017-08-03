@@ -4,3 +4,5 @@ i am modifying this file
 It consists date of file2 
 modified thi file as another user 
 modified after stash 
+modified thi file as another user
+added a new file` 
