@@ -1,4 +1,4 @@
 Hi this is Anusha
-It consists data of file1 
+It consists data of file1
 modified after stash 
 modified this file 
